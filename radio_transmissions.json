@@ -1,0 +1,51 @@
+[
+    {
+        "callsign": "DISPATCH_CTRL",
+        "channel": "CH-01 (108 ALS)",
+        "time": "16:20",
+        "text": "All units stand by. V2X Green Wave network active across Majura Sector.",
+        "role": "hq"
+    },
+    {
+        "callsign": "AMB_UNIT_108",
+        "channel": "CH-01 (108 ALS)",
+        "time": "16:21",
+        "text": "Approaching Majura Chauraha on West Lane. Requesting Green Lock preemption.",
+        "role": "amb"
+    },
+    {
+        "callsign": "AMB_UNIT_108",
+        "channel": "CH-01",
+        "time": "00:07:38",
+        "text": "URGENT: Emergency corridor lock engaged on NORTH Approach. Clear intersection immediately!",
+        "role": "user"
+    },
+    {
+        "callsign": "AMB_UNIT_108",
+        "channel": "CH-01",
+        "time": "09:31:43",
+        "text": "ICU Trauma Bay and Cardiac Cath-Lab staged. Blood units matched and on standby.",
+        "role": "user"
+    },
+    {
+        "callsign": "AMB_UNIT_108",
+        "channel": "CH-01",
+        "time": "09:31:58",
+        "text": "blood need",
+        "role": "user"
+    },
+    {
+        "callsign": "AMB_UNIT_108",
+        "channel": "CH-01",
+        "time": "09:32:24",
+        "text": "any need",
+        "role": "user"
+    },
+    {
+        "callsign": "AMB_UNIT_108",
+        "channel": "CH-01",
+        "time": "14:48:15",
+        "text": "hlo",
+        "role": "user"
+    }
+]

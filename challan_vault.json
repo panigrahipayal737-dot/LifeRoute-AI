@@ -1,0 +1,68 @@
+[
+    {
+        "challan_id": "CH-97881",
+        "vehicle_no": "GJ-05-BQ-9912",
+        "owner_name": "Kunal Sharma",
+        "location": "Majura Gate (Ambulance Rear Buffer)",
+        "offense": "Tailgating Emergency Ambulance under 15m Buffer",
+        "penalty": "\u20b910,000",
+        "section": "Sec 194E MVA",
+        "date_time": "2026-08-30 19:21",
+        "status": "ISSUED"
+    },
+    {
+        "challan_id": "CH-26618",
+        "vehicle_no": "GJ-05-XY-7711",
+        "owner_name": "Rameshwar Mehta",
+        "location": "Athwa Gate",
+        "offense": "Illegal Lane Encroachment on Green Corridor",
+        "penalty": "\u20b910,000",
+        "section": "Sec 194E MVA",
+        "date_time": "2026-08-29 23:33",
+        "status": "PAID"
+    },
+    {
+        "challan_id": "CH-26584",
+        "vehicle_no": "GJ-05-XY-7711",
+        "owner_name": "Rameshwar Mehta",
+        "location": "Majura Gate Chauraha",
+        "offense": "Blocked Ambulance Right-of-Way (Section 194E MVA)",
+        "penalty": "\u20b910,000",
+        "section": "Sec 194E MVA",
+        "date_time": "2026-08-29 23:33",
+        "status": "ISSUED"
+    },
+    {
+        "challan_id": "CH-88221",
+        "vehicle_no": "MH-04-EF-1288",
+        "owner_name": "Vikram Singh",
+        "location": "Athwa Junction",
+        "offense": "Tailgating 108 Emergency Vehicle",
+        "penalty": "\u20b910,000",
+        "section": "Sec 194E MVA",
+        "date_time": "2026-08-29 23:32",
+        "status": "ISSUED"
+    },
+    {
+        "challan_id": "CH-88220",
+        "vehicle_no": "GJ-01-CD-9901",
+        "owner_name": "Kishan Shah",
+        "location": "Ring Road Junction",
+        "offense": "Corridor Lane Encroachment",
+        "penalty": "\u20b910,000",
+        "section": "Sec 194E MVA",
+        "date_time": "2026-08-29 23:32",
+        "status": "PAID"
+    },
+    {
+        "challan_id": "CH-88219",
+        "vehicle_no": "GJ-05-AB-4412",
+        "owner_name": "Anil Verma",
+        "location": "Majura Gate Chauraha",
+        "offense": "Blocked Ambulance Right-of-Way",
+        "penalty": "\u20b910,000",
+        "section": "Sec 194E MVA",
+        "date_time": "2026-08-29 23:32",
+        "status": "ISSUED"
+    }
+]

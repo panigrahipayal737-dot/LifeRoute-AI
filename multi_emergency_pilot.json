@@ -1,0 +1,46 @@
+[
+  {
+    "id": "SOS-MCI-01",
+    "approach": "NORTH APPROACH",
+    "patient": "Ramesh Vyas (48y)",
+    "diag": "Cardiac Arrest / Chest Pain (P1 Priority)",
+    "rank": 1,
+    "vitals": "Pulse: 132 | SpO2: 83%",
+    "amb": "108 ALS-ALPHA (GJ-01-EA-108)",
+    "hosp": "Mahavir Cardiac Hospital",
+    "status": "CORRIDOR ACTIVE: GREEN WAVE LOCKED \ud83d\udfe2"
+  },
+  {
+    "id": "SOS-MCI-02",
+    "approach": "WEST APPROACH",
+    "patient": "Kavita Shah (29y)",
+    "diag": "Maternity Crisis (P2 Priority)",
+    "rank": 2,
+    "vitals": "Pulse: 105 | SpO2: 93%",
+    "amb": "108 ALS-BRAVO (GJ-01-EB-108)",
+    "hosp": "Kushal Maternity Hospital",
+    "status": "STAGED BUFFER: HOLD (25s) \ud83d\udfe1"
+  },
+  {
+    "id": "SOS-MCI-03",
+    "approach": "EAST APPROACH",
+    "patient": "Imran Mansoori (34y)",
+    "diag": "Polytrauma Crash (P3 Priority)",
+    "rank": 3,
+    "vitals": "Pulse: 98 | SpO2: 95%",
+    "amb": "108 BLS-CHARLIE (GJ-01-EC-108)",
+    "hosp": "SMIMER Trauma Center",
+    "status": "STAGED BUFFER: HOLD (50s) \ud83d\udfe1"
+  },
+  {
+    "id": "SOS-MCI-04",
+    "approach": "SOUTH APPROACH",
+    "patient": "Sunita Ben (50y)",
+    "diag": "Minor Fracture Transfer (P4 Priority)",
+    "rank": 4,
+    "vitals": "Pulse: 78 | SpO2: 98%",
+    "amb": "108 BLS-DELTA (GJ-01-ED-108)",
+    "hosp": "New Civil Hospital",
+    "status": "CONTROLLED ALL-RED WAIT \ud83d\udd34"
+  }
+]

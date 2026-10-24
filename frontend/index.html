@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PulseRoute AI • V2X Mission Control Gateway</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&family=JetBrains+Mono:wght@700&display=swap">
+</head>
+<body>
+    <div class="container">
+        <header class="header-card">
+            <div>
+                <h1>🚨 PULSEROUTE AI • MISSION CONTROL</h1>
+                <p>Real-Time Traffic Preemption & Connected Hospital Network</p>
+            </div>
+            <div class="status-badge" id="v2xStatus">● V2X NETWORK ACTIVE</div>
+        </header>
+
+        <main class="grid">
+            <div class="card">
+                <h2>🚦 4-Rasta Signal Phase</h2>
+                <div class="signal-box" id="signalBox">
+                    <p>WEST: <span class="green">GREEN (LOCKED)</span></p>
+                    <p>NORTH: <span class="red">RED</span></p>
+                    <p>EAST: <span class="red">RED</span></p>
+                    <p>SOUTH: <span class="red">RED</span></p>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>🫀 Live Telemetry Stream</h2>
+                <div class="metric-row">
+                    <div class="metric"><span class="label">SpO2</span><span class="val">88%</span></div>
+                    <div class="metric"><span class="label">PULSE</span><span class="val">117 BPM</span></div>
+                    <div class="metric"><span class="label">BP</span><span class="val">155/90</span></div>
+                </div>
+                <p class="bay-text">🏥 Reserved: <b>CRITICAL-BAY #01</b> (Blood: <b>O+</b>)</p>
+            </div>
+        </main>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
